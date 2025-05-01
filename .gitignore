@@ -1,0 +1,16 @@
+# Frontend
+moviemood-frontend/node_modules
+moviemood-frontend/dist
+
+# Backend
+backend/build
+backend/.gradle
+backend/.idea
+backend/target
+
+# IDE
+*.iml
+.DS_Store
+
+# General
+.env
